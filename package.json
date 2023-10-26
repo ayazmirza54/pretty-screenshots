@@ -1,0 +1,16 @@
+{
+  "name": "pretty-screenshots",
+  "version": "1.0.0",
+  "description": "Pretty screenshots maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.4.1"
+  }
+}
